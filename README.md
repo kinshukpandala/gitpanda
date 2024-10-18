@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kinshukpandala
-- 👀 I’m interested in learning something new 
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in learning through working on projects
+- 🌱 I’m currently learning Java and DSA
 - 💞️ I’m looking to collaborate on various projects 
-- 📫 How to reach me kinshuk2005@gmail.com
+- 📫 Reach me out @ kinshuk2005@gmail.com
 - ⚡ Fun fact: I'm a quick learner
 
 <!---
