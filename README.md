@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Kinshukpandala
-- 👀 I’m interested in learning through working on projects
-- 🌱 I’m currently learning Java and DSA
-- 💞️ I’m looking to collaborate on various projects 
-- 📫 Reach me out @ kinshuk2005@gmail.com
-- ⚡ Fun fact: I'm a quick learner
+- 👋 Hi, I’m @Kinshukpandala  
+- 👀 I’m interested in exploring technology and solving real-world problems.  
+- 🌱 I’m currently enhancing my skills in Java, DSA, and problem-solving.  
+- 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.  
+- 📫 Reach me out @ kinshuk2005@gmail.com  
+- ⚡ Fun fact: The Eiffel Tower can grow taller in the summer.  
+
 
 <!---
 Kinshukpandala/Kinshukpandala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
