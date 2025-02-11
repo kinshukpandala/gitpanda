@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kinshukpandala  
 - 👀 I’m interested in exploring technology and solving real-world problems.  
-- 🌱 I’m currently enhancing my skills in Java, DSA, and problem-solving.  
+- 🌱 I’m currently working on building cool projects.  
 - 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.  
 - 📫 Reach me out @ kinshuk2005@gmail.com  
 - ⚡ Fun fact: The Eiffel Tower can grow taller in the summer.  
