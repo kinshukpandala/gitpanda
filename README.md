@@ -3,8 +3,7 @@
 - 🌱 I’m currently working on building cool projects.  
 - 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.  
 - 📫 Reach me out @ kinshuk2005@gmail.com  
-- ⚡ Fun fact: The Eiffel Tower can grow taller in the summer.  
-
+- ⚡ Fun fact: The microprocessor inside a smartphone is millions of times more powerful than the computers used to send astronauts to the Moon in 1969.
 
 <!---
 Kinshukpandala/Kinshukpandala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
