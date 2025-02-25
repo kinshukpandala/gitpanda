@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kinshukpandala  
+- 👋 Hi, I’m @kinshukpandala  
 - 👀 I’m interested in exploring technology and solving real-world problems.  
 - 🌱 I’m currently working on building cool projects.  
 - 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.  
